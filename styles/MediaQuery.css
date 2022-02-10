@@ -55,8 +55,8 @@
     
 @media (max-width: 680px){
     #LogoGrandeFlex{
-        width: 100vw;
-        height: 90vh;
+        width: 80vw;
+        height: 70vh;
     }
     #gridConteiner{
         height: 10vh;
