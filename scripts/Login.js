@@ -30,6 +30,5 @@ export default function Login() {
         inputSenha.style.border = "1px solid #E9B425"
     }
   })
-
 }
 

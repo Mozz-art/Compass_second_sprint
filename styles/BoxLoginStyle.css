@@ -82,7 +82,7 @@
     align-items: center;
     width: 100%;
     height: 55%;
-    background: linear-gradient(90deg, #FF2D04 0%, #C13216 100%);
+    background: linear-gradient(90deg, #FF2D04 0, #C13216 100%);
     box-shadow:  0px 5px  5px 0px black;
     border-style: none;
     border-radius: 2em;
@@ -93,7 +93,7 @@
 }
 
 #Columns button:hover {
-    background: linear-gradient(90deg, #8d2a17 0%, #64271b 100%);
+    background: linear-gradient(90deg, #8d2a17 0, #64271b 100%);
 }
 
 #LoginEdit p{

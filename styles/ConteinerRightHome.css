@@ -24,21 +24,21 @@
 }
 
 #txtIntrodutorio h2{
-    padding: 0% 0% 2% 0%;
+    padding: 0 0 2% 0;
     font-weight: 900;
     font-size: 38px;
     color: #C12D18; 
 }
 
 #txtIntrodutorio h1{
-    padding: 0% 0% 2% 0%;
+    padding: 0 0 2% 0;
     font-weight: 900;
     font-size: clamp(1.5rem, 3.5vw, 4rem);
     color: #C12D18;
 }
 
 #txtIntrodutorio p{
-    padding: 0% 0% 2% 0%;
+    padding: 0 0 2% 0;
     font-weight: 900;
     font-size: 24px;
     color: black;
