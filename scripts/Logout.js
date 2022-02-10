@@ -7,6 +7,6 @@ export default function Logout(){
     btnLogout.addEventListener("click", () => {
         Login.style.display = "block"
         home.style.display = "none"
-        history.pushState(null, "Login", "https://mozz-art.github.io/Compass_second_sprint/Login")       
+        history.pushState(null, "Compass-login", "https://mozz-art.github.io/Compass_second_sprint/Login")       
     })
 }
