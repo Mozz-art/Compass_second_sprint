@@ -29,21 +29,6 @@ export default function Login() {
         inputSenha.style.border = "1px solid #E9B425"
     }
   })
-  BtnContinuar.addEventListener(TouchEvent, () => {
-      
-    if (inputUser.value === "admin" && inputSenha.value === "admin") {
-        Login.style.display = "none"
-        home.style.display = "block"
-        Timeout()
-
-    } else {
-        Erro.style.display="block"
-        Login.style.display = "block"
-        home.style.display = "none"
-        inputUser.style.border = "1px solid #E9B425"
-        inputSenha.style.border = "1px solid #E9B425"
-    }
-  })
 
 }
 
