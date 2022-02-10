@@ -5,3 +5,9 @@ import Logout from "./scripts/Logout.js"
 Clima()
 Login()
 Logout()
+
+setInterval(()=>{
+
+  Relogio()
+  
+}, 1000);
