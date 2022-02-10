@@ -20,6 +20,7 @@ export default function Login() {
         Login.style.display = "none"
         home.style.display = "block"
         Timeout()
+        history.pushState(null, "Home", "https://mozz-art.github.io/Compass_second_sprint/Home")
 
     } else {
         Erro.style.display="block"
