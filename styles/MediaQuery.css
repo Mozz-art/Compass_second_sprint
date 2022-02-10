@@ -1,10 +1,10 @@
-@media screen and(max-width: 1300px){
+@media (max-width: 1300px){
     #Clima{
         margin-left: 15%;
     }
 }
 
-@media screen and(max-width: 1150px){
+@media (max-width: 1150px){
     #Clima, #Relogio{
         visibility: hidden;
     }
@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and(max-width: 891px){
+@media (max-width: 891px){
     #conteinerRight, #conteinerRightHome{
         display: none;
     }
@@ -59,7 +59,7 @@
     }
 }  
     
-@media screen and(max-width: 680px){
+@media (max-width: 680px){
     #LogoGrandeFlex{
         width: 80vw;
         height: 70vh;
@@ -73,7 +73,7 @@
     }
 }
 
-@media screen and(max-width: 540px){
+@media (max-width: 540px){
     #inputUser input, #inputSenha input{
         height: 2.5em;
     }
