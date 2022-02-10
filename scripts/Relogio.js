@@ -17,7 +17,6 @@ export default function Relogio(){
 
     var fullDate = (day[date.getDay()]) + " , " + date.getDate() + " de " + month[date.getMonth()] + " de " + date.getFullYear();
     document.querySelector("#Date").innerHTML = fullDate;
-
 }
 
 

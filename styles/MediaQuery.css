@@ -2,13 +2,12 @@
     #Clima, #Relogio{
         visibility: hidden;
     }
-
     #JanelaUm, #Barra, #refresh, #seconds, .grid-itemTimer{
         display: none;
     }
-
     #Navegando{
         margin: 0%;
+        
     }
 }
 
@@ -30,7 +29,6 @@
     #Navegando{
         font-size: 12px;
     }
-
     #inputSenhaTamanho, #inputUserTamanho{
         margin: 0 0 0 -20%;;
     }
@@ -40,7 +38,6 @@
     #Columns button{
         height: 80%;
     }
-
 }  
     
 @media (max-width: 680px){
@@ -51,7 +48,6 @@
     #gridConteiner{
         height: 10vh;
     }
-
     #mainColumn{
         height: 100%;
         width: 60%;
@@ -59,5 +55,4 @@
     #Erro{
         margin-bottom: -60%;
     }
-
 }

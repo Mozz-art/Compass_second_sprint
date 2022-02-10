@@ -6,9 +6,6 @@ export default function Logout(){
 
     btnLogout.addEventListener("click", () => {
         Login.style.display = "block"
-        home.style.display = "none"
-        
+        home.style.display = "none"       
     })
-
-
 }
