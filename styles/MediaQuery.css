@@ -65,7 +65,10 @@
         height: 100%;
         width: 60%;
     }
-    #Erro{
-        margin-bottom: -60%;
+}
+
+@media (max-width: 540px){
+    #inputUser input, #inputSenha input{
+        height: 2.5em;
     }
 }
